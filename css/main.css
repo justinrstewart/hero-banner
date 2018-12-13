@@ -28,12 +28,6 @@ body {
   overflow: hidden;
 }
 
-.banner-text p {
-  font-size: 2rem;
-  margin: 0;
-  font-style: italic;
-}
-
 .banner-text h2 {
   color: white;
   font-size: 4rem;
